@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Villarreal C.F. </title>
+  <link rel="stylesheet" type="text/css" href="CSS/Menu.css">
+  <link rel="icon" href="Imatges/villarreallogo.jpg">
+</head>
+<body>
+  <style>
+
+body {
+  margin: 0;
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)),url(Imatges/fondo.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+</style>
+    <div class="main">
+      <div class="estadio">
+        <img src="Imatges/villarreal_escudo.gif">
+      </div>
+    </div>
+    <header>
+      <ul>
+        <li><a href="MENU.html">MENÚ</a></li>
+        <li><a href="NOTICIAS.html">NOTICIAS</a></li>
+        <li><a href="#">HISTORIA</a></li>
+        <li><a href="#">JUGADORES</a></li>
+      </ul>
+    </header>
+    <article class="title">
+      <h1>Villarreal C.F.</h1>
+    </article>
+    <div class="lenguajeesp">
+      <a href="MENU.html"><img src="Imatges/es.gif"></a>
+    </div>
+    <div class="lenguajeeng">
+      <a href="MENUeng.html"><img src="Imatges/en.gif"></a>
+    </div>
+    <div class="button">
+      <a href="#"class="btn">VIDEO GDANSK</a>
+      <a href="#"class="btn">QUIENES SOMOS</a>
+    </div>
+    <div class="groguet">
+      <img src="Imatges/GROGUET.gif">
+    </div>
+    <ul class="redes">
+      <li><a href="#"><img src="Imatges/instagram.png"></a></li>
+      <li><a href="#"><img src="Imatges/twitter.png"></a></li>
+    </ul>
+</body>
+</style>
+</html>
